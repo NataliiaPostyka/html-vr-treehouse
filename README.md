@@ -9,7 +9,6 @@ imag/: A directory containing image files used in the project.
 
 HTML Tags
 The project showcases various HTML tags to structure and formats the content. These tags include, but are not limited to:
-
 <h1> to <h6>: Heading tags for different levels of headings.
 <p>: Paragraph tag for text content.
 <ul> and <li>: Unordered list and list item tags.
